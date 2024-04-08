@@ -1,0 +1,144 @@
+body{
+    font-family:cursive;
+    align-items: center;
+}
+.contact-info{
+ margin-left: 22rem;
+  
+}
+.footer-div{
+  display: inline-block;
+}
+
+
+header{
+  background-color: rgb(193, 199, 197);
+   position: fixed;
+    top: -30px;
+   left: -10px;
+   right: 5px; 
+   display: flex;
+   justify-content: flex-end;
+   align-items: center;
+
+}
+.headings{
+ text-shadow: #fff;
+ color: grey;
+  align-items: center;
+  margin-left: 25rem;
+  font-size: 34px;
+  margin-top: 5rem;
+  margin-bottom: 1rem;
+  font-style: italic;
+}
+li a:hover {
+  background-color: rgb(40, 5, 5);
+  color: #fff;
+}
+li a{
+text-decoration: none;
+font-size: large;
+font-family: monospace;
+  padding: 10px 20px;
+  border-radius: 5px;
+  color: rgb(19, 10, 2);
+}
+.myfooter{
+  padding-top: 20px;
+  text-align: center;
+}
+.mylogo{
+    font-weight: 700;
+    font-family: monospace;
+
+} 
+.navigations {
+  display: flex;
+  justify-content: flex-end;
+}
+
+
+ul{
+    
+  justify-content: flex-end;
+    margin-left: 500px;
+   display: flex;
+  list-style: none;
+     text-align: center;
+    text-decoration: none;
+    
+}
+
+
+ul li{
+   
+    margin-right: 7px;
+    align-items: flex-end;
+    justify-content: space-between;
+    display: flex;
+    padding: 15px;
+    position: relative;
+    
+
+}
+
+.section{
+    
+    padding-top: 20px;
+
+}
+
+
+
+.profile-pages{
+    display: flex;
+    align-items: center;
+    margin-top: 3rem;
+    margin-left: 100px;
+    background-color:rgba(250, 245, 245, 0.978);
+    height: 300px;
+    width: 600px;
+    
+}
+
+.text-pages{
+margin: 1rem;
+align-items: center;
+
+}
+.myfooter{
+  background-color: rgb(63, 59, 59);
+  height: 100px;
+  color: #fff;
+}
+
+.text{
+font-size: 21px;
+}
+
+.my-pic{
+
+border-radius: 50%;
+}
+span{
+    font-weight: 800;
+}
+ profile-pic {
+  align-items: center;
+  margin-right: 20px;
+ padding-right: 60px;
+ 
+ 
+} 
+.profile-pic img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+.profile-detail{
+    font-family: sans-serif;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+
